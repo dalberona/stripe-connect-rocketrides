@@ -5,13 +5,13 @@ module.exports = {
   appName: 'APP NAME',
 
   // Public domain of Rocket Rides
-  publicDomain: 'http://localhost:3000',
+  publicDomain: 'https://winstarrxvetplatform.com',
 
   // Server port
-  port: 3000,
+  port: 443,
 
   // Secret for cookie sessions
-  secret: 'YOUR_SECRET',
+  secret: 'nnkjdask3432ksdkfdsfdsfkj',
 
   // Configuration for Stripe
   // API Keys: https://dashboard.stripe.com/account/apikeys
